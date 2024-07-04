@@ -18,7 +18,7 @@ def loadLst(fileName, lstName):
 if len(sys.argv) <= 1:
     print 'wp-csteam'
     print 'cs-team.my.id'
-    print 'Cyber Sederhana Team''
+    print 'Cyber Sederhana Team'
     print ''
     print 'Syntax: python wp-csteam [-u USER|-U FILE] [-p PASS|-P FILE] -h URL [OPT]'
     print ''
